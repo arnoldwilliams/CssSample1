@@ -13,7 +13,7 @@
         <h2>Showcase of CSS Web Sites</h2>
     </div>
     <div id="content">
-        <h3>Content Page Title</h3>
+        <h3>Content Page Title </h3>
         <p class="title">Content Item Title</p>
         <p class="content">Content goes here.</p>
     </div>

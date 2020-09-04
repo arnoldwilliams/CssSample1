@@ -43,7 +43,7 @@
                 <img src="/Content/ProductImages/Lion1.JPG" />
             </a>
             <p>
-                <a href="/Products/Details/3">Orange and Yellow Lion</a>
+                <a href="/Products/Details/1">Orange and Yellow Lion</a>
             </p>
         </div>
     </section>
